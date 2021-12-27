@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\fluent_forms\FormElements\Contracts;
+namespace Drupal\fluent_forms\Contracts;
 
 interface FormElementContract
 {

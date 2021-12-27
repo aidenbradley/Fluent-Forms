@@ -3,7 +3,7 @@
 namespace Drupal\fluent_forms\FormElements;
 
 use Drupal\Component\Utility\Random;
-use Drupal\fluent_forms\FormElements\Contracts\FormElementContract;
+use Drupal\fluent_forms\Contracts\FormElementContract;
 
 class Markup implements FormElementContract
 {

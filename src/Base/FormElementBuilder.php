@@ -1,12 +1,12 @@
 <?php
 
-namespace Drupal\fluent_forms\FormElements\Base;
+namespace Drupal\fluent_forms\Base;
 
 use Drupal\Core\Ajax\AjaxResponse;
 use Drupal\Core\Ajax\CssCommand;
 use Drupal\Core\Ajax\HtmlCommand;
 use Drupal\Core\Form\FormStateInterface;
-use Drupal\fluent_forms\FormElements\Contracts\FormElementContract;
+use Drupal\fluent_forms\Contracts\FormElementContract;
 use Drupal\fluent_forms\FormElements\SelectField;
 use Tightenco\Collect\Contracts\Support\Arrayable;
 

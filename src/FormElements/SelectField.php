@@ -2,7 +2,7 @@
 
 namespace Drupal\fluent_forms\FormElements;
 
-use Drupal\fluent_forms\FormElements\Base\FormElementBuilder;
+use Drupal\fluent_forms\Base\FormElementBuilder;
 use Tightenco\Collect\Contracts\Support\Arrayable;
 
 class SelectField extends FormElementBuilder
