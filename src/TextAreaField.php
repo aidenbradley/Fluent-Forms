@@ -1,9 +1,9 @@
 <?php
 
-namespace Drupal\helpers\FormElements;
+namespace Drupal\fluent_forms\FormElements;
 
 use Drupal\Core\Database\Driver\mysql\Schema;
-use Drupal\helpers\FormElements\Base\FormElementBuilder;
+use Drupal\fluent_forms\FormElements\Base\FormElementBuilder;
 
 class TextAreaField extends FormElementBuilder
 {

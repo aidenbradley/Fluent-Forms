@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\helpers\FormElements;
+namespace Drupal\fluent_forms\FormElements;
 
 class MultiSelectField extends SelectField
 {

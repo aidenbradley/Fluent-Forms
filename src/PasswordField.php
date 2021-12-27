@@ -1,8 +1,8 @@
 <?php
 
-namespace Drupal\helpers\FormElements;
+namespace Drupal\fluent_forms\FormElements;
 
-use Drupal\helpers\FormElements\Base\FormElementBuilder;
+use Drupal\fluent_forms\FormElements\Base\FormElementBuilder;
 
 class PasswordField extends FormElementBuilder
 {

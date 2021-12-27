@@ -1,9 +1,9 @@
 <?php
 
-namespace Drupal\helpers\FormElements;
+namespace Drupal\fluent_forms\FormElements;
 
 use Drupal\Component\Utility\Random;
-use Drupal\helpers\FormElements\Contracts\FormElementContract;
+use Drupal\fluent_forms\FormElements\Contracts\FormElementContract;
 
 class Markup implements FormElementContract
 {
